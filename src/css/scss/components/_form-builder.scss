@@ -1,0 +1,9 @@
+.form-builder {
+	&__wrapper {
+	    position: relative;
+	}
+
+	&__wrapper &__wrapper {
+	    margin-left: 20px;
+	}	
+}
