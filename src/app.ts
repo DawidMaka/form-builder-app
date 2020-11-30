@@ -6,7 +6,6 @@ import Store from './js/store';
 import View from './js/view';
 
 const store = new Store( 'store' );
-const template = new Template();
-const view = new View( template );
-
-const controller = new Controller( store, view );
+const template = new Template( '[data-parent="-1"]' );
+const view = new View( template, '.formBuilder' );
+new Controller( store, view );

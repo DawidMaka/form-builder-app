@@ -4,8 +4,6 @@
 
 *:focus {
 	outline-color: black;
-    outline-style: outset;
-    outline-width: 1px;
 }
 
 html {    
@@ -19,7 +17,7 @@ body {
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
-    background-color: #fff;
+    background: #f3f3f3;
 }
 
 main {
