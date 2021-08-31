@@ -8,9 +8,9 @@ Technologies and tools I've used with this project:
   - Webpack
   - TypeScript
 
-  Live: https://web-devvv.github.io/form-builder-app/
+  Live: https://DawidMaka.github.io/form-builder-app/
 
-  Src: https://github.com/web-deVVV/form-builder-app/tree/master/src
+  Src: https://github.com/DawidMaka/form-builder-app/tree/master/src
 
 ## Details
 
